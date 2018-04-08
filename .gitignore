@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.idea/
+training/weights.best.h5
+training/logs/
+models/keras/
 *.py[cod]
 *$py.class
 
